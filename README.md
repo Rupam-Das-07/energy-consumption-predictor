@@ -60,6 +60,3 @@ The original dataset ZIP file is excluded from the repository to maintain a clea
 
 This project is intended for academic and learning purposes.
 
----
-
-Would you like to include a brief explanation of the dataset's features or sample output plots in the README as well?
